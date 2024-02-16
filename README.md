@@ -1,7 +1,9 @@
 **About Me**
+
 Hello there! My name is Diego Giordano, and I'm thrilled to welcome you to my GitHub profile.
 
 **Who am I?**
+
 I am a young enthusiast with a diverse background spanning economics, web development, marketing, and cryptocurrency. 
 With over a decade of experience in the crypto space, I bring a wealth of knowledge and expertise to the table.
 
