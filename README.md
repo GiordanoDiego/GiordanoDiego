@@ -1,5 +1,3 @@
-**Diego Giordano**
-
 **About Me**
 
 Diego Giordano, soon-to-be economics graduate with a web development course under my belt. With over 10 years in crypto, I'm passionate about programming, marketing, and blockchain tech.
