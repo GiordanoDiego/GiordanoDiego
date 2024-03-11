@@ -5,11 +5,9 @@ With over 10 years in crypto, I'm passionate about programming, marketing, and b
 
 **Expertise**
 
-Programming: Proficient in various languages.
-
-Marketing: Skilled in crafting compelling campaigns.
-
-Cryptocurrency: 10+ years of experience in the dynamic crypto space.
+- Software Development: Proficient in various languages including PHP, JavaScript, C++, and Java.
+- Marketing: Skilled in crafting compelling campaigns.
+- Cryptocurrency: 10+ years of experience in the dynamic crypto space.
 
 
 **Let's Connect!**
